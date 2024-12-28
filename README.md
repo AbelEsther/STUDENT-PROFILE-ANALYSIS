@@ -88,7 +88,7 @@ This dataset enables analysis of student demographics, academic performance, and
  ### **3. Which method produced the highest silhouette score?**
 - **DBSCAN**:
   - DBSCAN produced the highest silhouette score due to its flexibility in handling arbitrary cluster shapes and isolating noise points.
-  - The optimized \( \text{eps} \) and \( \text{min\_samples} \) parameters improved the clustering quality.
+  - The optimized parameters improved the clustering quality.
 - **KMeans**:
   - Provided a decent silhouette score when \( K \) was chosen carefully but struggled with non-spherical clusters.
 - **Hierarchical Clustering**:
