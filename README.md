@@ -1,6 +1,13 @@
 # STUDENT-PROFILE-ANALYSIS
 ### **KMEANS,DBSCAN, HIERARCHICAL CLUSTERING**
 
+## **Notebook used in Data analysis and Model Building**
+[student_profile_analysis.ipynb](https://github.com/AbelEsther/STUDENT-PROFILE-ANALYSIS/blob/3ea9725fed8e896a2a3a1648db66e230dcbd3c0f/student_profile_analysis.ipynb)
+
+## **Dataset Link**
+[Student_info.csv](https://github.com/AbelEsther/STUDENT-PROFILE-ANALYSIS/blob/3ea9725fed8e896a2a3a1648db66e230dcbd3c0f/Student_info.csv)
+
+
 ## **Problem Definition**
 The primary challenge in educational institutions is to effectively address the diverse learning needs of students while improving overall academic success rates. Traditional one-size-fits-all approaches often fail to account for variations in student demographics, socio-economic backgrounds, and academic performances, leading to suboptimal outcomes. By clustering students with similar profiles, this project aims to provide actionable insights to enable personalized learning and targeted interventions that can reduce dropouts and enhance student success.
 
